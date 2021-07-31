@@ -26,8 +26,9 @@ const Home = () => {
   return (
     <Container>
       <Maintenance>
-      <h1>Ground Bean Studios</h1>
+      <h1>Ground Bean Studio</h1>
       <p>Taking our advice and upgrading our own brand & website!</p>
+        <span>edward@groundbean.studio</span>
       </Maintenance>
     </Container>
   )
